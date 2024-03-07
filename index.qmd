@@ -1,0 +1,7 @@
+---
+title: "Alexander Guarasci"
+---
+
+My name is Alexander Guarasci, I am currently a Mathematics student in my senior year at the University of Toronto. I grew up in Vancouver, where I skied and played rugby. I have completed level I of my CFA and intend on pursuing a career in finance.
+
+<a href="resume.pdf" download>Download Resume</a>
